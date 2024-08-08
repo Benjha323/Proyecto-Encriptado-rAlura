@@ -27,11 +27,7 @@ El diseño está optimizado para diferentes rangos de pantalla:
 - **Móviles**: Entre 320px y 480px.
 - **Tablets**: Entre 768px y 1024px.
 - **Pantallas grandes**: Más de 1200px.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
-
+  
 ## Autor
 
 **Benjamin Morales Meza**
